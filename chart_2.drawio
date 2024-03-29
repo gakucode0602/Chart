@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T11:07:43.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CgEbl4GVw8nbmSe-mmR2" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T11:08:20.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="k1VSzvxn_6u4Gk2jIrmA" version="24.2.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="875" dy="503" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,8 +21,8 @@
         <mxCell id="_Tyyvw-6a50eKsR9AOgy-6" value="Đăng ký dịch vụ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_Tyyvw-6a50eKsR9AOgy-0">
           <mxGeometry x="11" y="146" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_Tyyvw-6a50eKsR9AOgy-9" value="MB2" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=19;" vertex="1" parent="_Tyyvw-6a50eKsR9AOgy-0">
-          <mxGeometry x="157" y="146" width="70" height="30" as="geometry" />
+        <mxCell id="_Tyyvw-6a50eKsR9AOgy-9" value="MB2" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=19;align=left;" vertex="1" parent="_Tyyvw-6a50eKsR9AOgy-0">
+          <mxGeometry x="172" y="146" width="55" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Tyyvw-6a50eKsR9AOgy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_Tyyvw-6a50eKsR9AOgy-0" source="_Tyyvw-6a50eKsR9AOgy-11" target="_Tyyvw-6a50eKsR9AOgy-12">
           <mxGeometry relative="1" as="geometry" />
