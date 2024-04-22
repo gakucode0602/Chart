@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T15:24:04.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="XiWAadvAg9kZb7-OFoKS" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T15:43:47.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="06XrQ7XlHOC910_LN3zb" version="24.2.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2853" dy="849" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -99,7 +99,7 @@
             <mxRectangle width="30" height="79" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dr3VKB_Wm1qcDhbBMzNp-14" value="Tên phòng&#xa;Số người&#xa;Tên loại phòng&#xa;Số điện thoại phòng" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=16;" parent="dr3VKB_Wm1qcDhbBMzNp-12" vertex="1">
+        <mxCell id="dr3VKB_Wm1qcDhbBMzNp-14" value="Tên phòng&#xa;Loại giường&#xa;Tên loại phòng&#xa;Số điện thoại phòng" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=16;" parent="dr3VKB_Wm1qcDhbBMzNp-12" vertex="1">
           <mxGeometry x="30" width="220" height="79" as="geometry">
             <mxRectangle width="220" height="79" as="alternateBounds" />
           </mxGeometry>
@@ -1067,7 +1067,7 @@
             <mxRectangle width="30" height="111" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qkFHp0qkgSx2-_c7k-AS-239" value="Tên phòng&#xa;Số người" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=16;" parent="qkFHp0qkgSx2-_c7k-AS-237" vertex="1">
+        <mxCell id="qkFHp0qkgSx2-_c7k-AS-239" value="Tên phòng&#xa;Số điện thoại phòng" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=16;" parent="qkFHp0qkgSx2-_c7k-AS-237" vertex="1">
           <mxGeometry x="30" width="220" height="111" as="geometry">
             <mxRectangle width="220" height="111" as="alternateBounds" />
           </mxGeometry>
