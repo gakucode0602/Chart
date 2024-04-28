@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T12:16:14.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="elj0goMvQ4ubDADw48qD" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-28T15:10:33.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zYR8Q3A_pkOc_Ui6ThEw" version="24.3.1" type="github">
   <diagram name="Trang-1" id="u6AFii0J1AGzfqg-02fW">
-    <mxGraphModel dx="1252" dy="531" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1720" dy="804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DikC6y5VubVPNoohQmqa-1" value="Quản lý đặt phòng khách sạn" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="421.5" y="41" width="146.5" height="71" as="geometry" />
+          <mxGeometry x="574.75" y="40" width="146.5" height="71" as="geometry" />
         </mxCell>
         <mxCell id="DikC6y5VubVPNoohQmqa-5" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="222" y="112" width="549" height="50" as="geometry" />
+          <mxGeometry x="225" y="111" width="846" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DikC6y5VubVPNoohQmqa-6" value="Quản lý phòng" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="166" y="162" width="120" height="55" as="geometry" />
@@ -16,17 +16,11 @@
         <mxCell id="DikC6y5VubVPNoohQmqa-8" value="Quản lý giao dịch" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="718" y="161" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="DikC6y5VubVPNoohQmqa-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DikC6y5VubVPNoohQmqa-9" target="DikC6y5VubVPNoohQmqa-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DikC6y5VubVPNoohQmqa-9" value="Quản lý dịch vụ" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="436.5" y="162" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="DikC6y5VubVPNoohQmqa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;strokeWidth=1;" parent="1" source="DikC6y5VubVPNoohQmqa-5" target="DikC6y5VubVPNoohQmqa-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DikC6y5VubVPNoohQmqa-14" value="" style="line;strokeWidth=1;direction=south;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="491.5" y="139" width="10" height="22" as="geometry" />
         </mxCell>
         <mxCell id="DikC6y5VubVPNoohQmqa-16" value="Kiểm tra phòng trống" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="219.49" y="241" width="120" height="55" as="geometry" />
@@ -87,6 +81,30 @@
         </mxCell>
         <mxCell id="DikC6y5VubVPNoohQmqa-37" value="Thanh toán" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="765" y="513" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="9xQxC6F1NDYUexaV8d10-3" value="Quản lý hoạt động khách sạn" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="162" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="9xQxC6F1NDYUexaV8d10-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.487;entryY=0.679;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DikC6y5VubVPNoohQmqa-9" target="DikC6y5VubVPNoohQmqa-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="607" y="230" as="sourcePoint" />
+            <mxPoint x="657" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9xQxC6F1NDYUexaV8d10-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.491;entryY=0.347;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DikC6y5VubVPNoohQmqa-8" target="DikC6y5VubVPNoohQmqa-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="765" y="161" as="sourcePoint" />
+            <mxPoint x="815" y="111" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9xQxC6F1NDYUexaV8d10-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACYAAABrCAMAAAAsJQAuAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJUExURQAAAAAAAAAAAINj6cAAAAACdFJOUwCAmytOGAAAAAlwSFlzAAAXEQAAFxEByibzPwAAAERJREFUWEftzTEKACAQA8Ez/3+0CFZb6AmWO/WSVFIdZmAGZmAGZpCMu5U1PKzt9zMzMAMzMAMzMAMzMAMz+J019LrUBK6qAsN3lfwSAAAAAElFTkSuQmCC;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="216" width="53.49" height="150.6" as="geometry" />
+        </mxCell>
+        <mxCell id="9xQxC6F1NDYUexaV8d10-8" value="Kiểm soát các bộ phận" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1056" y="241" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="9xQxC6F1NDYUexaV8d10-9" value="Kiểm tra báo cáo định kỳ" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1056" y="334" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
