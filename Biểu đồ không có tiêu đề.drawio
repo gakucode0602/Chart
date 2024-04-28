@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T14:07:02.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3xr8E3xjVFWWsB7tFOD7" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-28T14:09:18.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="svdDGItaMIw0lZmbYXvz" version="24.3.1" type="github">
   <diagram name="Trang-1" id="nzbaMFDa1XgnYQ_m1gSZ">
-    <mxGraphModel dx="1909" dy="1096" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="375" dy="807" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,10 +48,10 @@
           <mxGeometry x="228" y="141" width="60" height="51" as="geometry" />
         </mxCell>
         <mxCell id="rfoANkOc3OcuwI24PyQS-15" value="Trả phòng" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="341" y="209" width="60" height="30" as="geometry" />
+          <mxGeometry x="347" y="209" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rfoANkOc3OcuwI24PyQS-17" value="Thanh toán hóa đơn" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="401" y="267" width="60" height="125" as="geometry" />
+          <mxGeometry x="402" y="267" width="60" height="125" as="geometry" />
         </mxCell>
         <mxCell id="QFRyq372rKyqe5MHZzhk-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rfoANkOc3OcuwI24PyQS-19" target="QFRyq372rKyqe5MHZzhk-1">
           <mxGeometry relative="1" as="geometry" />
